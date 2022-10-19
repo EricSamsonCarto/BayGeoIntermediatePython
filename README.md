@@ -5,7 +5,7 @@ The zip folder above contains all of the material for BayGeo's Intermediate Pyth
 To download the repository click the green code button then -> download zip from the drop down
 image.png
 
-Unzip the folder and save it somewhere easy to get to on your computer, I recommend your documents folder.
+After downloading, unzip the folder and save it somewhere easy to get to on your computer, I recommend your documents folder.
 After unzipping, the folders will be set up like below:
 image.png
 
