@@ -1,5 +1,4 @@
-# BayGeoIntermediatePython
-Bay Geo's Intermediate Python Course Material
+# Bay Geo Intermediate Python Course Material
 
 The zip folder above contains all of the material for BayGeo's Intermediate Python Course
 
